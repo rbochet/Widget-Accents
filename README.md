@@ -3,12 +3,15 @@ Accents Widget
 
 It's a small widget that aims to help people with a qwerty keyboard to type french accents on an Apple computer.
 
+You can download this widget here : [http://lab.stackr.fr/widgets/](http://lab.stackr.fr/widgets/)
+
 French accents are mandatory, since they can differenciate two words.
 
-* Biscuits salés : salted biscuits
-* Biscuits sales : dirty biscuits
+* Biscuits sal*é*s: salted biscuits
+* Biscuits sal*e*s: dirty biscuits
 
 Rather useful things, isn't it?
+
 
 Content
 -------
@@ -39,6 +42,6 @@ You can find more details [here](http://french.about.com/od/writing/ss/typeaccen
 Others things
 -------------
 
-I used Dashboard to make this widget. The icon has been made using the keyboard icon from [this](http://www.iconfinder.com/search/?q=iconset%3ADarkGlass_Reworked) set. As it is licensed under the GPL, I assume that my icon has now the same license :)
+I used Dashcode to make this widget. The icon has been made using the keyboard icon from [this](http://www.iconfinder.com/search/?q=iconset%3ADarkGlass_Reworked) set. As it is licensed under the GPL, I assume that my icon has now the same license :)
 
 Please feel free to use / translate / adapt it as you want! It's a do-what-u-want license.
