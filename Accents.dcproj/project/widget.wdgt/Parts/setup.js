@@ -20,7 +20,7 @@ var dashcodePartSpecs = {
     "text13": { "text": "œ", "view": "DC.Text" },
     "text14": { "text": "«, »", "view": "DC.Text" },
     "text15": { "text": "€", "view": "DC.Text" },
-    "text16": { "text": "Retrouvez le code de ce Widget sur ", "view": "DC.Text" },
+    "text16": { "text": "github_widget", "view": "DC.Text" },
     "text17": { "text": "Romain Bochet ", "view": "DC.Text" },
     "text2": { "text": "à, è, ù", "view": "DC.Text" },
     "text3": { "text": "Option + ` puis a, e, u", "view": "DC.Text" },
@@ -31,4 +31,5 @@ var dashcodePartSpecs = {
     "text8": { "text": "ë, ï, ü", "view": "DC.Text" },
     "text9": { "text": "Option + Shift + 2", "view": "DC.Text" }
 };
+
 

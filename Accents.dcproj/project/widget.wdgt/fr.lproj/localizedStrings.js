@@ -5,9 +5,11 @@ however it is recommended to first turn off the Dashcode
 code generator otherwise the changes will be lost.
 */
 var localizedStrings = {
+    "github_widget": "Retrouvez le code ce widget sur",
     "Terminé": "Terminé",
     "title": "Accents français et clavier Qwerty"
 };
+
 
 
 

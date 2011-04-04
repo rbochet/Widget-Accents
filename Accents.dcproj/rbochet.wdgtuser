@@ -19,7 +19,7 @@
 		</array>
 	</dict>
 	<key>ContentViewType</key>
-	<integer>0</integer>
+	<integer>5</integer>
 	<key>DeploymentOptions</key>
 	<dict>
 		<key>Destination</key>
@@ -28,8 +28,10 @@
 		<string>romain.bochet@insa-lyon.fr</string>
 		<key>Path</key>
 		<string>Widgets</string>
+		<key>Save</key>
+		<true/>
 		<key>SavePath</key>
-		<string>/Users/rbochet/Documents/experiences/dashboard</string>
+		<string>/Users/rbochet/Documents/experiences/dashboard/accents</string>
 		<key>enableSimulation</key>
 		<true/>
 		<key>simulatedHost</key>
@@ -52,7 +54,7 @@
 	<key>NavigatorSplitViewGeometry</key>
 	<dict>
 		<key>ContentSplitViewConfig</key>
-		<integer>5</integer>
+		<integer>9</integer>
 		<key>SplitViewConfig</key>
 		<integer>3</integer>
 		<key>_indexOfCollapsedView</key>
@@ -93,16 +95,19 @@
 		<key>Objects view last selections</key>
 		<array>
 			<array>
-				<integer>0</integer>
-				<integer>0</integer>
-				<integer>2</integer>
+				<integer>5</integer>
 			</array>
 		</array>
 		<key>Opened Steps</key>
-		<array/>
+		<array>
+			<integer>2</integer>
+			<integer>3</integer>
+			<integer>4</integer>
+			<integer>5</integer>
+		</array>
 		<key>Visible StackLayout Views</key>
 		<array>
-			<string>front</string>
+			<string>back</string>
 		</array>
 	</dict>
 </dict>
